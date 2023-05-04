@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reobofriends/static/css/main.19fba84d.css",
+    "main.js": "/reobofriends/static/js/main.14c04b93.js",
+    "static/media/SEGA.woff": "/reobofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/reobofriends/index.html",
+    "main.19fba84d.css.map": "/reobofriends/static/css/main.19fba84d.css.map",
+    "main.14c04b93.js.map": "/reobofriends/static/js/main.14c04b93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19fba84d.css",
+    "static/js/main.14c04b93.js"
+  ]
+}
